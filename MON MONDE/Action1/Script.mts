@@ -1,1 +1,1 @@
-﻿
+﻿msgbox "pikachu"
